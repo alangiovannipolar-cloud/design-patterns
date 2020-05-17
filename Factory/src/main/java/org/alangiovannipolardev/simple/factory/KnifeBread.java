@@ -1,4 +1,4 @@
-package org.alangiovannipolardev;
+package org.alangiovannipolardev.simple.factory;
 
 public class KnifeBread  implements Knife {
 

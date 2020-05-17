@@ -1,7 +1,7 @@
-package org.alangiovannipolardev;
+package org.alangiovannipolardev.simple.factory;
 
 /**
- * Hello world!
+ * Factory Pattern
  *
  */
 public class App 

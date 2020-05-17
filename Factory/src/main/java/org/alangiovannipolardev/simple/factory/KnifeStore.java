@@ -1,4 +1,7 @@
-package org.alangiovannipolardev;
+package org.alangiovannipolardev.simple.factory;
+
+import org.alangiovannipolardev.simple.factory.Knife;
+import org.alangiovannipolardev.simple.factory.KnifeFactory;
 
 public class KnifeStore {
     private KnifeFactory knifeFactory;
